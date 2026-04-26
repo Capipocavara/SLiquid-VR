@@ -1,7 +1,7 @@
 {
   "name": "de.capipocavara.sliquidvr",
   "displayName": "SLiquidVR",
-  "description": "Simple VR fluid simulation",
+  "description": "Simple VR liquid simulation for Unity",
   "version": "0.1.0",
   "unity": "6000.4",
   "author": {
