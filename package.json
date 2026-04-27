@@ -1,7 +1,7 @@
 {
-  "name": "de.capipocavara.sliquidvr",
-  "displayName": "SLiquidVR",
-  "description": "Simple VR liquid simulation for Unity",
+  "name": "de.capipocavara.liquidspill",
+  "displayName": "LiquidSpill",
+  "description": "VR ready fluid simulation for Unity",
   "version": "0.1.0",
   "unity": "6000.4",
   "author": {
@@ -9,11 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Capipocavara/SLiquidVR.git"
+    "url": "git@github.com:Capipocavara/LiquidSpill.git"
   },
   "keywords": [
     "VR",
-    "Liquid"
+    "Liquid",
+    "Fluid"
   ],
   "license": "MIT"
 }

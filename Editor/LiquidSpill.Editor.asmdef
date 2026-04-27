@@ -1,8 +1,12 @@
 {
-    "name": "SLiquidVR",
-    "rootNamespace": "SLiquidVR",
-    "references": [],
-    "includePlatforms": [],
+    "name": "LiquidSpill.Editor",
+    "rootNamespace": "LiquidSpill",
+    "references": [
+        "GUID:d4e9b9695c6ec404291f2e5095939957"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
